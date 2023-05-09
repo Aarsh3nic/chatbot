@@ -8,7 +8,7 @@ To run this program, you will need:
 
 - Python 3.x installed on your system
 - PyQt6 library installed on your system
-- API credentials (if required by the API you are using) - (API key included in the backend.py file for now)
+- API credentials (if required by the API you are using) 
 
 ## Usage
 
