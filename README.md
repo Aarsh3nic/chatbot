@@ -17,7 +17,3 @@ To use this program, simply run the `main.py` script using Python. The program w
 ## Configuration
 
 To configure the program, you will need to modify the `backend.py` script to use the API of your choice. Replace the API endpoint and credentials with those of your chosen API.
-
-## License
-
-This program is released under the [MIT License](https://opensource.org/licenses/MIT). Feel free to modify and distribute the program as you see fit.
